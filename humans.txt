@@ -43,6 +43,7 @@ Localizers on Transifex
   ThomasTursics 
   ravmn
   vahagnbn
-  yourfrienddhruv 
+  yourfrienddhruv
+  luisartjacobo
 
-Last updated: 10 December 2013
+Last updated: 04 April 2014
